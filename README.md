@@ -34,7 +34,7 @@ O **FaceFit Access** é uma aplicação Java com interface gráfica baseada em J
 
 ### ⚙️ Como Executar
 
-1. Baixe todos os arquivos do repositório e coloque a pasta "FaceFit Access" onde desejar, é recomendado não deixar em caminhos com acento (Exe: Área de Trabalho/) para garantir o que todas as funcionalidades do sistema funcionem de forma correta.
+1. Baixe todos os arquivos do repositório e coloque a pasta do projeto onde desejar, é recomendado não deixar em caminhos com acento (Exe: Área de Trabalho/) para garantir o que todas as funcionalidades do sistema funcionem de forma correta.
 
 2. Acesse (https://gluonhq.com/products/javafx/) e desça até a sessão de Downloads, marque a opção ![image](https://github.com/user-attachments/assets/e79e2998-d298-422f-88bb-0b6c9b493196)
  e ajuste os filtros conforme a imagem:
