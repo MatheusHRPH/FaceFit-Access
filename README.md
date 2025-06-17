@@ -48,7 +48,7 @@ O **FaceFit Access** é uma aplicação Java com interface gráfica baseada em J
 
 ```bash
 java --module-path libs/javafx-sdk-19.0.2.1/lib --add-modules javafx.controls,javafx.fxml,javafx.swing -cp "build\classes;libs\opencv-4110.jar" projetofinal.ProjetoFinal
-```bash
+```
 
 ## 👨 Autor
 - Matheus Hoffmann
