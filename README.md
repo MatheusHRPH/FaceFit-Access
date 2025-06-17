@@ -39,7 +39,7 @@ O **FaceFit Access** é uma aplicação Java com interface gráfica baseada em J
 
 1. Baixe todos os arquivos do repositório e coloque a pasta "FaceFit Access" onde desejar, é recomendado não deixar em caminhos com acento (Exe: Área de Trabalho/) para garantir o que todas as funcionalidades do sistema funcionem de forma correta.
 2. Certifique-se que a pasta `libs/` com as DLLs do OpenCV esteja no mesmo diretório do `.exe`.
-3. Clique duas vezes no `FaceFitAccess.exe` para abrir o sistema.
+3. Clique duas vezes no `FaceFit Access.exe` para abrir o sistema.
 
 #### 📌 Opção 2: Executar via Terminal
 
@@ -48,6 +48,7 @@ O **FaceFit Access** é uma aplicação Java com interface gráfica baseada em J
 
 ```bash
 java --module-path libs/javafx-sdk-19.0.2.1/lib --add-modules javafx.controls,javafx.fxml,javafx.swing -cp "build\classes;libs\opencv-4110.jar" projetofinal.ProjetoFinal
+```bash
 
 ## 👨 Autor
 - Matheus Hoffmann
