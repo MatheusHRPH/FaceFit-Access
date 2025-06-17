@@ -28,7 +28,7 @@ O **FaceFit Access** é uma aplicação Java com interface gráfica baseada em J
 
 ### 🔧 Requisitos
 
-- Java Runtime Environment (JRE) 17 ou superior instalado.
+- Java Runtime Environment (JRE) 17 instalado.
 - Windows (para execução do `.exe`)
 
 > **Obs:** O OpenCV está incluso na pasta `libs/`, portanto não é necessário instalação separada.
@@ -38,7 +38,9 @@ O **FaceFit Access** é uma aplicação Java com interface gráfica baseada em J
 #### 📌 Opção 1: Executar via `.exe` (distribuição fácil)
 
 1. Baixe todos os arquivos do repositório e coloque a pasta "FaceFit Access" onde desejar, é recomendado não deixar em caminhos com acento (Exe: Área de Trabalho/) para garantir o que todas as funcionalidades do sistema funcionem de forma correta.
-2. Certifique-se que a pasta `libs/` com as DLLs do OpenCV esteja no mesmo diretório do `.exe`.
+2. Certifique-se que a pasta FaceFit Access esteja assim:
+![image](https://github.com/user-attachments/assets/71f01147-05ea-428e-8006-9a07195f681d)
+
 3. Clique duas vezes no `FaceFit Access.exe` para abrir o sistema.
 
 #### 📌 Opção 2: Executar via Terminal
