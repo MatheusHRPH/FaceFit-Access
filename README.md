@@ -30,7 +30,7 @@ O **FaceFit Access** é uma aplicação Java com interface gráfica baseada em J
 
 - Java Runtime Environment (JRE) 17 instalado.
 - JavaFX 19.0.2.1 (https://gluonhq.com/products/javafx/)
-- OpenCV 4.10.0 (https://opencv.org/blog/opencv-4-10-0/)
+- OpenCV 4.11.0 (https://opencv.org/releases/)
 - Windows (para execução do `.exe`)
 
 ### ⚙️ Como Executar
