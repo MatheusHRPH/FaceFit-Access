@@ -13,7 +13,6 @@ O **FaceFit Access** é uma aplicação Java com interface gráfica baseada em J
 - Reconhecimento facial em tempo real para liberação de acesso.
 - Visualização e gerenciamento da lista de clientes.
 - Interface gráfica intuitiva com feedback visual.
-- Geração de executável `.exe` para fácil distribuição.
 
 ## 🛠️ Tecnologias Utilizadas
 
