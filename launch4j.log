@@ -1,0 +1,45 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\mathe\OneDrive\Documentos\Faculdade\CompilarProjetoFinal\ProjetoFinal\ProjetoFinal.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\mathe\OneDrive\Documentos\Faculdade\CompilarProjetoFinal\ProjetoFinal\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\mathe\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.2.8-hotspot\
+Substitute:	PATH = C:\Users\mathe\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.2.8-hotspot\bin;C:\Python312\Scripts\;C:\Python312\;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\MinGW\bin;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\CMake\bin;C:\OrCAD\OrCAD_16.6_Lite\tools\pcb\bin;C:\OrCAD\OrCAD_16.6_Lite\tools\fet\bin;C:\OrCAD\OrCAD_16.6_Lite\OpenAccess\bin\win32\opt;C:\OrCAD\OrCAD_16.6_Lite\tools\bin;C:\OrCAD\OrCAD_16.6_Lite\tools\Capture;C:\OrCAD\OrCAD_16.6_Lite\tools\PSpice;C:\Users\mathe\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\mathe\AppData\Local\Programs\Python\Python310\;C:\Users\mathe\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.2.8-hotspot\bin;C:\Users\mathe\AppData\Local\Microsoft\WindowsApps;C:\Users\mathe\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files (x86)\mingw-w64;C:\Users\mathe\AppData\Local\GitHubDesktop\bin;C:\Users\mathe\AppData\Roaming\npm;;C:\Users\mathe\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.2.8-hotspot\\bin
+JRE paths:	C:\Users\mathe\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.2.8-hotspot\;C:\Users\mathe\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.2.8-hotspot\bin;C:\Python312\Scripts\;C:\Python312\;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\MinGW\bin;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\CMake\bin;C:\OrCAD\OrCAD_16.6_Lite\tools\pcb\bin;C:\OrCAD\OrCAD_16.6_Lite\tools\fet\bin;C:\OrCAD\OrCAD_16.6_Lite\OpenAccess\bin\win32\opt;C:\OrCAD\OrCAD_16.6_Lite\tools\bin;C:\OrCAD\OrCAD_16.6_Lite\tools\Capture;C:\OrCAD\OrCAD_16.6_Lite\tools\PSpice;C:\Users\mathe\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\mathe\AppData\Local\Programs\Python\Python310\;C:\Users\mathe\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.2.8-hotspot\bin;C:\Users\mathe\AppData\Local\Microsoft\WindowsApps;C:\Users\mathe\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files (x86)\mingw-w64;C:\Users\mathe\AppData\Local\GitHubDesktop\bin;C:\Users\mathe\AppData\Roaming\npm;;C:\Users\mathe\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.2.8-hotspot\\bin
+Check launcher:	C:\Users\mathe\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.2.8-hotspot\bin\javaw.exe (OK)
+Version string: 1.017.000_002 / 64-Bit (OK)
+Substitute:	PATH=PATH;EXEDIR\libs  = 
+Launcher:	C:\Users\mathe\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.2.8-hotspot\bin\javaw.exe
+Launcher args:	--module-path "libs/javafx-sdk-19.0.2.1/lib" --add-modules javafx.controls,javafx.fxml,javafx.swing -Denv.path=path;exedir\libs.="" -jar "C:\Users\mathe\OneDrive\Documentos\Faculdade\CompilarProjetoFinal\ProjetoFinal\ProjetoFinal.exe"
+Args length:	234/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\mathe\OneDrive\Documentos\Faculdade\CompilarProjetoFinal\ProjetoFinal\ProjetoFinal.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\mathe\OneDrive\Documentos\Faculdade\CompilarProjetoFinal\ProjetoFinal\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\mathe\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.2.8-hotspot\
+Substitute:	PATH = C:\Users\mathe\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.2.8-hotspot\bin;C:\Python312\Scripts\;C:\Python312\;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\MinGW\bin;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\CMake\bin;C:\OrCAD\OrCAD_16.6_Lite\tools\pcb\bin;C:\OrCAD\OrCAD_16.6_Lite\tools\fet\bin;C:\OrCAD\OrCAD_16.6_Lite\OpenAccess\bin\win32\opt;C:\OrCAD\OrCAD_16.6_Lite\tools\bin;C:\OrCAD\OrCAD_16.6_Lite\tools\Capture;C:\OrCAD\OrCAD_16.6_Lite\tools\PSpice;C:\Users\mathe\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\mathe\AppData\Local\Programs\Python\Python310\;C:\Users\mathe\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.2.8-hotspot\bin;C:\Users\mathe\AppData\Local\Microsoft\WindowsApps;C:\Users\mathe\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files (x86)\mingw-w64;C:\Users\mathe\AppData\Local\GitHubDesktop\bin;C:\Users\mathe\AppData\Roaming\npm;;C:\Users\mathe\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.2.8-hotspot\\bin
+JRE paths:	C:\Users\mathe\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.2.8-hotspot\;C:\Users\mathe\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.2.8-hotspot\bin;C:\Python312\Scripts\;C:\Python312\;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\MinGW\bin;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\CMake\bin;C:\OrCAD\OrCAD_16.6_Lite\tools\pcb\bin;C:\OrCAD\OrCAD_16.6_Lite\tools\fet\bin;C:\OrCAD\OrCAD_16.6_Lite\OpenAccess\bin\win32\opt;C:\OrCAD\OrCAD_16.6_Lite\tools\bin;C:\OrCAD\OrCAD_16.6_Lite\tools\Capture;C:\OrCAD\OrCAD_16.6_Lite\tools\PSpice;C:\Users\mathe\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\mathe\AppData\Local\Programs\Python\Python310\;C:\Users\mathe\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.2.8-hotspot\bin;C:\Users\mathe\AppData\Local\Microsoft\WindowsApps;C:\Users\mathe\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files (x86)\mingw-w64;C:\Users\mathe\AppData\Local\GitHubDesktop\bin;C:\Users\mathe\AppData\Roaming\npm;;C:\Users\mathe\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.2.8-hotspot\\bin
+Check launcher:	C:\Users\mathe\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.2.8-hotspot\bin\javaw.exe (OK)
+Version string: 1.017.000_002 / 64-Bit (OK)
+Substitute:	PATH=PATH;EXEDIR\libs  = 
+Main class:	projetofinal.ProjetoFinal 
+Add classpath:	ProjetoFinal.jar
+Add classpath:	libs\opencv-4110.jar
+Launcher:	C:\Users\mathe\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.2.8-hotspot\bin\javaw.exe
+Launcher args:	--module-path "libs/javafx-sdk-19.0.2.1/lib" --add-modules javafx.controls,javafx.fxml,javafx.swing -Denv.path=path;exedir\libs.="" -classpath "C:\Users\mathe\OneDrive\Documentos\Faculdade\CompilarProjetoFinal\ProjetoFinal\ProjetoFinal.exe;ProjetoFinal.jar;libs\opencv-4110.jar" projetofinal.ProjetoFinal 
+Args length:	305/32768 chars
+Exit code:	0
