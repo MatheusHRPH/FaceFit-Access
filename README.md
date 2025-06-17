@@ -18,8 +18,8 @@ O **FaceFit Access** é uma aplicação Java com interface gráfica baseada em J
 ## 🛠️ Tecnologias Utilizadas
 
 - Java 17+
-- JavaFX
-- OpenCV 4.x (incluso no projeto)
+- JavaFX 19.0.2.1
+- OpenCV 4.10.0
 - Launch4j (empacotamento em `.exe`)
 - Maven (opcional)
 - IDE: NetBeans
@@ -29,19 +29,24 @@ O **FaceFit Access** é uma aplicação Java com interface gráfica baseada em J
 ### 🔧 Requisitos
 
 - Java Runtime Environment (JRE) 17 instalado.
+- JavaFX 19.0.2.1 (https://gluonhq.com/products/javafx/)
+- OpenCV 4.10.0 (https://opencv.org/blog/opencv-4-10-0/)
 - Windows (para execução do `.exe`)
-
-> **Obs:** O OpenCV está incluso na pasta `libs/`, portanto não é necessário instalação separada.
 
 ### ⚙️ Como Executar
 
 #### 📌 Opção 1: Executar via `.exe` (distribuição fácil)
 
 1. Baixe todos os arquivos do repositório e coloque a pasta "FaceFit Access" onde desejar, é recomendado não deixar em caminhos com acento (Exe: Área de Trabalho/) para garantir o que todas as funcionalidades do sistema funcionem de forma correta.
-2. Certifique-se que a pasta FaceFit Access esteja assim:
-![image](https://github.com/user-attachments/assets/71f01147-05ea-428e-8006-9a07195f681d)
+2. Acesse (https://gluonhq.com/products/javafx/) e desça na sessão de Downloads, marque a opção ![image](https://github.com/user-attachments/assets/e79e2998-d298-422f-88bb-0b6c9b493196)
+ e ajuste os filtros conforme a imagem:
+![image](https://github.com/user-attachments/assets/e641c98a-9d51-45ae-b4c4-2dd442251256)
 
-3. Clique duas vezes no `FaceFit Access.exe` para abrir o sistema.
+3. Clique em ![image](https://github.com/user-attachments/assets/f4337a30-9c92-451b-91a5-82c1542e6719)
+
+
+
+4. Clique duas vezes no `FaceFit Access.exe` para abrir o sistema.
 
 #### 📌 Opção 2: Executar via Terminal
 
