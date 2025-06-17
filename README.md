@@ -35,8 +35,6 @@ O **FaceFit Access** é uma aplicação Java com interface gráfica baseada em J
 
 ### ⚙️ Como Executar
 
-#### 📌 Opção 1: Executar via `.exe` (distribuição fácil)
-
 1. Baixe todos os arquivos do repositório e coloque a pasta "FaceFit Access" onde desejar, é recomendado não deixar em caminhos com acento (Exe: Área de Trabalho/) para garantir o que todas as funcionalidades do sistema funcionem de forma correta.
 
 2. Acesse (https://gluonhq.com/products/javafx/) e desça até a sessão de Downloads, marque a opção ![image](https://github.com/user-attachments/assets/e79e2998-d298-422f-88bb-0b6c9b493196)
@@ -47,11 +45,18 @@ O **FaceFit Access** é uma aplicação Java com interface gráfica baseada em J
 
 4. Após concluído o Download, Extraia os arquivos e copie a pasta ![image](https://github.com/user-attachments/assets/b1bbe18a-9618-4b8a-92c7-87b711bc0eb0) e cole ela dentro da pasta ![image](https://github.com/user-attachments/assets/651b82ef-de9d-49e4-b7a8-37764b937a1d) no projeto.
 
-5. Acesse (https://opencv.org/blog/opencv-4-10-0/), desça até a sessão de Downloads e clique em ![image](https://github.com/user-attachments/assets/5334510a-d354-40be-adb4-6fea1933e0d4), após o Download, execute o arquivo baixado e extraia os arquivos
+5. Acesse (https://opencv.org/releases/), na área do OpenCV 4.11.0 clique em ![image](https://github.com/user-attachments/assets/0b4239ab-8b5b-4989-a681-09892be2f31b)
+
+
+![image](https://github.com/user-attachments/assets/1d9de16a-b2aa-42f7-bc7d-ba142f8325dc)
+
+
+Após o Download, execute o arquivo baixado e extraia os arquivos
 
 ![image](https://github.com/user-attachments/assets/9e4fa971-6f96-426e-8d24-8e1b9327a6e9)
 
-6. Após extrair os arquivos, navegue até opencv\build\java\x64, copie o arquivo ![image](https://github.com/user-attachments/assets/00dc3161-c3f5-4c30-918e-08197a30abe4) e cole ele dentro da pasta ![image](https://github.com/user-attachments/assets/68449321-578c-4d0f-9e20-45f40e768a42)
+6. Após extrair os arquivos, navegue até opencv\build\java\x64, copie o arquivo ![image](https://github.com/user-attachments/assets/55becf57-833d-4061-beb3-476e92ddea71)
+ e cole ele dentro da pasta ![image](https://github.com/user-attachments/assets/68449321-578c-4d0f-9e20-45f40e768a42)
 
 7. Sua pasta libs deve estar assim:
 
@@ -63,7 +68,7 @@ O **FaceFit Access** é uma aplicação Java com interface gráfica baseada em J
 **Obs:** O download desses arquivos de forma externa é necessário pois o GitHub não suporta arquivos grandes.
 
 
-#### 📌 Opção 2: Executar via Terminal
+#### Executar via Terminal:
 
 1. Abra o terminal (cmd) no diretório raiz do projeto `FaceFit Access`.
 2. Execute o comando abaixo para rodar a aplicação:
