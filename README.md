@@ -69,7 +69,7 @@ Após o Download, execute o arquivo baixado e extraia os arquivos
 
 #### Executar via Terminal:
 
-1. Abra o terminal (cmd) no diretório raiz do projeto `FaceFit Access`.
+1. Abra o terminal (cmd) no diretório raiz do projeto.
 2. Execute o comando abaixo para rodar a aplicação:
 
 ```bash
